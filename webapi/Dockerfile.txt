@@ -1,0 +1,7 @@
+FROM python:3.8.0b4-alpine3.10
+RUN mkdir webservice
+WORKDIR /webservice
+COPY ./ ./
+RUN pip install flask
+EXPOSE 8030
+CMD python main.py
