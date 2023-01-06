@@ -14,3 +14,5 @@ Using machine learning, predict the CO2 emission based on streamed population gr
   - Duangkamol Ketchanchai (6410422012)
   - Jittikan Narapan (6410422019)
   - Penprapa Wutthijuk (6410422023)
+
+Presentation [Link](https://youtu.be/40Ml94FfRL4)
