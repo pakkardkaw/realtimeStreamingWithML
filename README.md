@@ -1,5 +1,5 @@
-# The group project Real-time Streaming Data with Machine learning on the topic of "CO2 Emission Prediction"
-Using machine learning, predict the CO2 emission based on streamed population growth data.
+# Real-time "CO2 Emission" Prediction Using Machine Learning
+Objective: Using machine learning to predict the real-time CO2 emission based on population growth streaming data.
 - Full presentation: [Link](https://youtu.be/40Ml94FfRL4)
 - Recorded dashboard: [Link](https://www.youtube.com/watch?v=40Ml94FfRL4&t=631s)
 
