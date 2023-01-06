@@ -10,8 +10,8 @@ Using machine learning, predict the CO2 emission based on streamed population gr
 ![9](https://user-images.githubusercontent.com/94279787/210961329-c6e8fc78-9d97-41d8-b2f6-422846369820.png)
 
 - Team members:
-  - Kanis Charntaweekhun (6410422014)
   - Duangkamol Ketchanchai (6410422012)
+  - Kanis Charntaweekhun (6410422014)
   - Jittikan Narapan (6410422019)
   - Penprapa Wutthijuk (6410422023)
 
